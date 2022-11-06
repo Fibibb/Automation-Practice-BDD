@@ -1,4 +1,4 @@
-Feature: ContactUs 
+Feature: Contact Us 
 
 Checking the correct operation of the "Contact Us" section
 
